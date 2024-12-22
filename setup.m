@@ -18,7 +18,7 @@ addpath(genpath(cd));
 
 % Full path to the directory where MAVLink messages are located
 % (DO NOT use relative path)
-mavlink_path = '/Users/aditya/Documents/PX4/mavlink/include/mavlink/v2.0/common';
+mavlink_path = 'E:\Github\FMT\simulink_mavlink_ybb\mavlink\include\mavlink\v2.0\common';
 
 % Maximum number of messages to receive in one iteration
 nmax = 2;
